@@ -8,6 +8,6 @@ public class dd {
         System.out.println("hello  hot-fix  text");
         System.out.println("hello  hot-fix  text");
         System.out.println("hello  pull  text");
-        
+          System.out.println("厉害");
     }
 }
